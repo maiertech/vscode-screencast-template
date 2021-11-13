@@ -1,0 +1,1 @@
+# vscode-screencast-template
