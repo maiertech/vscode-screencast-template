@@ -1,0 +1,13 @@
+{
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "window.zoomLevel": 1,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.lineNumbers": "off",
+  "editor.quickSuggestionsDelay": 1500,
+  "editor.hover.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true
+}
